@@ -16,7 +16,7 @@ void snakemove();
 void command();
 void eatfood();
 
-//【添加音乐】
+//【添加音乐】（这里直接将电脑中的音乐资源编译进去了）
 void BGM()
 {
 /*	if (0 == PlaySound(MAKEINTRESOURCE(IDR_WAV1), NULL, SND_RESOURCE | SND_ASYNC | SND_LOOP))
